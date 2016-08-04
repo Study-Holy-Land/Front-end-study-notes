@@ -1,0 +1,1 @@
+- [ES5中新增的Array方法详细说明](http://www.zhangxinxu.com/wordpress/2013/04/es5%E6%96%B0%E5%A2%9E%E6%95%B0%E7%BB%84%E6%96%B9%E6%B3%95/)
